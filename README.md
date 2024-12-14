@@ -22,3 +22,6 @@ The models were evaluated on both Turkish and English translations of the parlia
 - `inference.py`: Script for performing inference using the trained models.
 - `logs.txt`: Log file capturing the training and evaluation metrics.
 - `README.md`: This document.
+
+# Evaluation Results
+Evaluation results are available here: https://wandb.ai/merichaliloglu-metu-middle-east-technical-university/ParliamentaryDebates/workspace
