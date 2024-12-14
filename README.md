@@ -24,4 +24,4 @@ The models were evaluated on both Turkish and English translations of the parlia
 - `README.md`: This document.
 
 # Evaluation Results
-Evaluation results are available here: https://wandb.ai/merichaliloglu-metu-middle-east-technical-university/ParliamentaryDebates/workspace
+Evaluation results are available here: https://wandb.ai/merichaliloglu-metu-middle-east-technical-university/ParliamentaryDebates?nw=nwusermerichaliloglu
