@@ -19,7 +19,7 @@ The models were evaluated on both Turkish and English translations of the parlia
 ## Repository Contents
 
 - `Classification.ipynb`: Jupyter Notebook detailing the data preprocessing, model training, and evaluation processes.
-- `inference.py`: Script for performing inference using the trained models.
+- `inference.py`: Script for performing inference using the chosen LLM (Llama-3.2:1b for this case).
 - `logs.txt`: Log file capturing the training and evaluation metrics.
 - `README.md`: This document.
 
